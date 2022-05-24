@@ -33,4 +33,4 @@ User authentication can be time-consuming. However, if you feel like up to the c
 ​
 ​
 ### Alloted time
-We feel that one work day (8h) should be more than enough to complete the required parts of the challenge.
+We feel that one work day (8h) should be more than enough to complete the required parts of the challenge. if you feel otherwise or that it's too much to ask - share your thoughts with us.
